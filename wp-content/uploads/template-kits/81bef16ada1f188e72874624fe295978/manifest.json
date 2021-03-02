@@ -1,0 +1,1363 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Ed-School-Template-Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.png",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Intro Block",
+            "screenshot": "screenshots\/intro-block.jpg",
+            "source": "templates\/intro-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/intro-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Head of School Welcome Block",
+            "screenshot": "screenshots\/head-of-school-welcome-block.jpg",
+            "source": "templates\/head-of-school-welcome-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/head-of-school-welcome-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Title Block",
+            "screenshot": "screenshots\/title-block.jpg",
+            "source": "templates\/title-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/title-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Education",
+            "screenshot": "screenshots\/home-education.jpg",
+            "source": "templates\/home-education.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/home-education\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Teachers 2 Block",
+            "screenshot": "screenshots\/teachers-2-block.jpg",
+            "source": "templates\/teachers-2-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/teachers-2-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home School",
+            "screenshot": "screenshots\/home-school.jpg",
+            "source": "templates\/home-school.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/home-school\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Fun Facts Block",
+            "screenshot": "screenshots\/fun-facts-block.jpg",
+            "source": "templates\/fun-facts-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/fun-facts-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Block",
+            "screenshot": "screenshots\/contact-block.jpg",
+            "source": "templates\/contact-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/contact-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Welcome Block",
+            "screenshot": "screenshots\/welcome-block.jpg",
+            "source": "templates\/welcome-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/welcome-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page Title Block",
+            "screenshot": "screenshots\/page-title-block.jpg",
+            "source": "templates\/page-title-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/page-title-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News Block",
+            "screenshot": "screenshots\/news-block.jpg",
+            "source": "templates\/news-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/news-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Teachers 1 Block",
+            "screenshot": "screenshots\/teachers-1-block.jpg",
+            "source": "templates\/teachers-1-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/teachers-1-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery Block",
+            "screenshot": "screenshots\/gallery-block.jpg",
+            "source": "templates\/gallery-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/gallery-block\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Apply Information Block",
+            "screenshot": "screenshots\/apply-information-block.jpg",
+            "source": "templates\/apply-information-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/apply-information-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Programs \u2013 Call to Action",
+            "screenshot": "screenshots\/programs-call-to-action.jpg",
+            "source": "templates\/programs-call-to-action.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/programs-call-to-action\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial Block",
+            "screenshot": "screenshots\/testimonial-block.jpg",
+            "source": "templates\/testimonial-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/testimonial-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "At a Glance Block",
+            "screenshot": "screenshots\/at-a-glance-block.jpg",
+            "source": "templates\/at-a-glance-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/at-a-glance-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Programs",
+            "screenshot": "screenshots\/programs.jpg",
+            "source": "templates\/programs.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/programs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plans",
+            "screenshot": "screenshots\/pricing-plans.jpg",
+            "source": "templates\/pricing-plans.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/pricing-plans\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "School by Numbers Block",
+            "screenshot": "screenshots\/school-by-numbers-block.jpg",
+            "source": "templates\/school-by-numbers-block.json",
+            "preview_url": "http:\/\/templatekits.aislinthemes.com\/template-kit\/school-by-numbers-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.1.7",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "1.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "08-african-girl-thinking-in-class-P9TCHYE.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/08-african-girl-thinking-in-class-P9TCHYE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/intro-block.json",
+                    "name": "Intro Block"
+                },
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                }
+            ],
+            "filesize": 79527,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-girl-thinking-in-class-P9TCHYE"
+        },
+        {
+            "filename": "13-difficult-exam-in-elementary-school-5S9KMNQ.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/13-difficult-exam-in-elementary-school-5S9KMNQ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/intro-block.json",
+                    "name": "Intro Block"
+                },
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 107928,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/difficult-exam-in-elementary-school-5S9KMNQ"
+        },
+        {
+            "filename": "10-cheating-at-school-exam-VWYLNHB.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/10-cheating-at-school-exam-VWYLNHB-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/intro-block.json",
+                    "name": "Intro Block"
+                },
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 73659,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheating-at-school-exam-VWYLNHB"
+        },
+        {
+            "filename": "09-smiling-hispanic-boy-at-school-PDQS85C.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/09-smiling-hispanic-boy-at-school-PDQS85C-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/intro-block.json",
+                    "name": "Intro Block"
+                },
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/apply-information-block.json",
+                    "name": "Apply Information Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 94621,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-hispanic-boy-at-school-PDQS85C"
+        },
+        {
+            "filename": "15.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/15-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/head-of-school-welcome-block.json",
+                    "name": "Head of School Welcome Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 108059,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-female-elementary-school-teacher-stand-F4GXQ3A"
+        },
+        {
+            "filename": "Henry_James_signature_1907.png",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/Henry_James_signature_1907-600x314.png",
+            "templates": [
+                {
+                    "source": "templates\/head-of-school-welcome-block.json",
+                    "name": "Head of School Welcome Block"
+                }
+            ],
+            "filesize": 35872,
+            "dimensions": [
+                686,
+                359
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero1.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/hero1-600x246.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/apply-information-block.json",
+                    "name": "Apply Information Block"
+                }
+            ],
+            "filesize": 333282,
+            "dimensions": [
+                1920,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/studying-in-college-PPZY52Y"
+        },
+        {
+            "filename": "hero2.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/hero2-600x246.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/page-title-block.json",
+                    "name": "Page Title Block"
+                },
+                {
+                    "source": "templates\/programs-call-to-action.json",
+                    "name": "Programs \u2013 Call to Action"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                }
+            ],
+            "filesize": 320123,
+            "dimensions": [
+                1920,
+                787
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/busy-college-library-with-teacher-helping-students-P7D4FEQ"
+        },
+        {
+            "filename": "sign.png",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/sign.png",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                }
+            ],
+            "filesize": 1935,
+            "dimensions": [
+                192,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Untitled-2-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/04\/Untitled-2-1-600x199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/contact-block.json",
+                    "name": "Contact Block"
+                }
+            ],
+            "filesize": 375032,
+            "dimensions": [
+                1920,
+                638
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-pupil-in-elementary-school-drawing-using-di-ERKMD7Z"
+        },
+        {
+            "filename": "07-girl-making-holiday-card-TAD8VC7.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/07-girl-making-holiday-card-TAD8VC7-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                }
+            ],
+            "filesize": 71297,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-making-holiday-card-TAD8VC7"
+        },
+        {
+            "filename": "06-elementary-school-teacher-giving-female-pupil-one-XQFZHTV.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/06-elementary-school-teacher-giving-female-pupil-one-XQFZHTV-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                }
+            ],
+            "filesize": 121192,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/elementary-school-teacher-giving-female-pupil-one--XQFZHTV"
+        },
+        {
+            "filename": "2522824.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/2522824-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                }
+            ],
+            "filesize": 806114,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/blue-backpack-hook-school_4904957.htm#query=blue%20backpack%20hook%20school%20&position=0"
+        },
+        {
+            "filename": "10-cheating-at-school-exam-VWYLNHB.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/10-cheating-at-school-exam-VWYLNHB-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 73659,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheating-at-school-exam-VWYLNHB"
+        },
+        {
+            "filename": "11-close-up-of-pre-teen-friends-in-a-park-smiling-to-PQKA7HP.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/11-close-up-of-pre-teen-friends-in-a-park-smiling-to-PQKA7HP-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                }
+            ],
+            "filesize": 143819,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-pre-teen-friends-in-a-park-smiling-to--PQKA7HP"
+        },
+        {
+            "filename": "szkola083.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/szkola083-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                }
+            ],
+            "filesize": 46314,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/school-break-only-with-my-best-friend-Q6R4YU7"
+        },
+        {
+            "filename": "04-portrait-of-female-elementary-school-teacher-5ECDT7K.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/04-portrait-of-female-elementary-school-teacher-5ECDT7K-600x897.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/teachers-2-block.json",
+                    "name": "Teachers 2 Block"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/teachers-1-block.json",
+                    "name": "Teachers 1 Block"
+                }
+            ],
+            "filesize": 182091,
+            "dimensions": [
+                768,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-female-elementary-school-teacher-stand-5ECDT7K"
+        },
+        {
+            "filename": "cheerful-girl-eyeglasses-with-brown-eyes-looking-smiling_23-2147879339.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/04\/cheerful-girl-eyeglasses-with-brown-eyes-looking-smiling_23-2147879339-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                }
+            ],
+            "filesize": 121333,
+            "dimensions": [
+                626,
+                417
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7879339"
+        },
+        {
+            "filename": "03-portrait-of-smiling-male-school-teacher-standing-J3TZHRY.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/03-portrait-of-smiling-male-school-teacher-standing-J3TZHRY-600x897.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/teachers-1-block.json",
+                    "name": "Teachers 1 Block"
+                }
+            ],
+            "filesize": 804550,
+            "dimensions": [
+                768,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-school-teacher-standing-i-J3TZHRY"
+        },
+        {
+            "filename": "group-of-kids-using-tablet-in-school-C3ZYTC7.png",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/04\/group-of-kids-using-tablet-in-school-C3ZYTC7-600x201.png",
+            "templates": [
+                {
+                    "source": "templates\/home-education.json",
+                    "name": "Home Education"
+                },
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                }
+            ],
+            "filesize": 568866,
+            "dimensions": [
+                1920,
+                644
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-kids-using-tablet-in-school-C3ZYTC9"
+        },
+        {
+            "filename": "01-high-school-students-walking-on-stairs-between-SQE892G.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/01-high-school-students-walking-on-stairs-between-SQE892G-600x763.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/apply-information-block.json",
+                    "name": "Apply Information Block"
+                }
+            ],
+            "filesize": 207999,
+            "dimensions": [
+                768,
+                976
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/high-school-students-walking-on-stairs-between-les-SQE892G"
+        },
+        {
+            "filename": "02-woman-teacher-standing-in-the-classroom-DNVJ4JN.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/02-woman-teacher-standing-in-the-classroom-DNVJ4JN-600x897.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teachers-2-block.json",
+                    "name": "Teachers 2 Block"
+                },
+                {
+                    "source": "templates\/teachers-1-block.json",
+                    "name": "Teachers 1 Block"
+                }
+            ],
+            "filesize": 141486,
+            "dimensions": [
+                768,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-teacher-standing-in-the-classroom-DNVJ4JN"
+        },
+        {
+            "filename": "05-portrait-of-smiling-businesswoman-standing-ZACQB76.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/05-portrait-of-smiling-businesswoman-standing-ZACQB76-600x897.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teachers-2-block.json",
+                    "name": "Teachers 2 Block"
+                },
+                {
+                    "source": "templates\/teachers-1-block.json",
+                    "name": "Teachers 1 Block"
+                }
+            ],
+            "filesize": 162639,
+            "dimensions": [
+                768,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-businesswoman-standing-outside-ZACQB76"
+        },
+        {
+            "filename": "09-smiling-hispanic-boy-at-school-PDQS85C.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/09-smiling-hispanic-boy-at-school-PDQS85C-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/contact-block.json",
+                    "name": "Contact Block"
+                }
+            ],
+            "filesize": 94621,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-hispanic-boy-at-school-PDQS85C"
+        },
+        {
+            "filename": "post01-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/post01-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                },
+                {
+                    "source": "templates\/contact-block.json",
+                    "name": "Contact Block"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 105876,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-children-in-water-at-edge-of-pool-wait-AUXYER9"
+        },
+        {
+            "filename": "11-close-up-of-pre-teen-friends-in-a-park-smiling-to-PQKA7HP-1.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/11-close-up-of-pre-teen-friends-in-a-park-smiling-to-PQKA7HP-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-school.json",
+                    "name": "Home School"
+                }
+            ],
+            "filesize": 143819,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-pre-teen-friends-in-a-park-smiling-to--PQKA7HP"
+        },
+        {
+            "filename": "3198947.png",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/3198947.png",
+            "templates": [
+                {
+                    "source": "templates\/fun-facts-block.json",
+                    "name": "Fun Facts Block"
+                }
+            ],
+            "filesize": 26782,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/accept-terms-law-illustration-concept_6202764.htm"
+        },
+        {
+            "filename": "3196531.png",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/3196531.png",
+            "templates": [
+                {
+                    "source": "templates\/fun-facts-block.json",
+                    "name": "Fun Facts Block"
+                }
+            ],
+            "filesize": 50414,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/navigation-concept-illustration_6203322.htm#page=2&position=18"
+        },
+        {
+            "filename": "3196449.png",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/3196449.png",
+            "templates": [
+                {
+                    "source": "templates\/fun-facts-block.json",
+                    "name": "Fun Facts Block"
+                }
+            ],
+            "filesize": 46495,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/social-ideas-concept-illustration_6203639.htm#page=6&position=2"
+        },
+        {
+            "filename": "2842726.png",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/2842726.png",
+            "templates": [
+                {
+                    "source": "templates\/fun-facts-block.json",
+                    "name": "Fun Facts Block"
+                }
+            ],
+            "filesize": 25357,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/select-concept-illustration_5421732.htm#page=13&position=26"
+        },
+        {
+            "filename": "post02.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/01\/post02-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-block.json",
+                    "name": "Contact Block"
+                }
+            ],
+            "filesize": 86022,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-making-holiday-card-TAD8VC7"
+        },
+        {
+            "filename": "11-close-up-of-pre-teen-friends-in-a-park-smiling-to-PQKA7HP.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/11-close-up-of-pre-teen-friends-in-a-park-smiling-to-PQKA7HP-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 143819,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-pre-teen-friends-in-a-park-smiling-to--PQKA7HP"
+        },
+        {
+            "filename": "08-african-girl-thinking-in-class-P9TCHYE.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/08-african-girl-thinking-in-class-P9TCHYE-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 79527,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-girl-thinking-in-class-P9TCHYE"
+        },
+        {
+            "filename": "07-girl-making-holiday-card-TAD8VC7.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/07-girl-making-holiday-card-TAD8VC7-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 71297,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-making-holiday-card-TAD8VC7"
+        },
+        {
+            "filename": "06-elementary-school-teacher-giving-female-pupil-one-XQFZHTV.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/06-elementary-school-teacher-giving-female-pupil-one-XQFZHTV-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 121192,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/elementary-school-teacher-giving-female-pupil-one--XQFZHTV"
+        },
+        {
+            "filename": "post01.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/post01-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery Block"
+                }
+            ],
+            "filesize": 105876,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-children-in-water-at-edge-of-pool-wait-AUXYER9"
+        },
+        {
+            "filename": "13-difficult-exam-in-elementary-school-5S9KMNQ.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/13-difficult-exam-in-elementary-school-5S9KMNQ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/apply-information-block.json",
+                    "name": "Apply Information Block"
+                }
+            ],
+            "filesize": 107928,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/difficult-exam-in-elementary-school-5S9KMNQ"
+        },
+        {
+            "filename": "12-female-school-teacher-sitting-on-a-desk-in-a-MM3HZKL.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/12-female-school-teacher-sitting-on-a-desk-in-a-MM3HZKL-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 127945,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-school-teacher-sitting-on-a-desk-in-a-class-MM3HZKL"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/14-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 129000,
+            "dimensions": [
+                880,
+                587
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-mature-businesswoman-with-arms-crossed-RC6K389"
+        },
+        {
+            "filename": "16.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/16-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial Block"
+                },
+                {
+                    "source": "templates\/at-a-glance-block.json",
+                    "name": "At a Glance Block"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 137622,
+            "dimensions": [
+                980,
+                654
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-hispanic-boy-at-school-PDQS85C"
+        },
+        {
+            "filename": "4H1A3089.jpg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/4H1A3089-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial Block"
+                }
+            ],
+            "filesize": 42531,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H1A3089"
+        },
+        {
+            "filename": "word.svg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/word.svg",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 678,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "google-drive-pdf-file.svg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/google-drive-pdf-file.svg",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 2166,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "microsoft-excel-logo.svg",
+            "thumbnail_url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/microsoft-excel-logo.svg",
+            "templates": [
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 653,
+            "dimensions": [
+                0,
+                0
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

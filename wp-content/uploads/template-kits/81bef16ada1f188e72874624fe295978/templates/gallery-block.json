@@ -1,0 +1,141 @@
+{
+    "version": "0.4",
+    "title": "Gallery Block",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "382b0634",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "10",
+                    "bottom": "0",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": 0,
+                    "bottom": "60",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "40",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": 0,
+                    "bottom": "30",
+                    "left": 0,
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1dcdd4c4",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "2c70d491",
+                            "settings": {
+                                "wp_gallery": [
+                                    {
+                                        "id": 1429,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/13-difficult-exam-in-elementary-school-5S9KMNQ.jpg"
+                                    },
+                                    {
+                                        "id": 1427,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/11-close-up-of-pre-teen-friends-in-a-park-smiling-to-PQKA7HP.jpg"
+                                    },
+                                    {
+                                        "id": 1426,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/10-cheating-at-school-exam-VWYLNHB.jpg"
+                                    },
+                                    {
+                                        "id": 1425,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/09-smiling-hispanic-boy-at-school-PDQS85C.jpg"
+                                    },
+                                    {
+                                        "id": 1424,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/08-african-girl-thinking-in-class-P9TCHYE.jpg"
+                                    },
+                                    {
+                                        "id": 1423,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/07-girl-making-holiday-card-TAD8VC7.jpg"
+                                    },
+                                    {
+                                        "id": 1422,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/03\/06-elementary-school-teacher-giving-female-pupil-one-XQFZHTV.jpg"
+                                    },
+                                    {
+                                        "id": 1408,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/post01.jpg"
+                                    },
+                                    {
+                                        "id": 1393,
+                                        "url": "http:\/\/templatekits.aislinthemes.com\/app\/uploads\/2020\/02\/06-elementary-school-teacher-giving-female-pupil-one-XQFZHTV.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "gallery_columns": "3",
+                                "open_lightbox": "yes",
+                                "image_spacing": "custom",
+                                "image_spacing_custom": {
+                                    "unit": "px",
+                                    "size": 19,
+                                    "sizes": []
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "9",
+                                    "right": "9",
+                                    "bottom": "9",
+                                    "left": "9",
+                                    "isLinked": true
+                                },
+                                "gallery_display_caption": "none",
+                                "text_color": "#CF8686",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Content",
+        "template": "elementor_header_footer"
+    }
+}
